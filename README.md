@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Raj Gupta
+### Integrated MCA Student | Python Learner
 
-<!--
-**disraj07/disraj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Studying Integrated MCA at [Your College]
+- Learning Python, SQL and Git
+- Open to team projects
 
-Here are some ideas to get you started:
+## Skills
+Python | C++ | HTML | CSS | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+linkedin 
+email
